@@ -1,5 +1,3 @@
-  <img src="https://raw.githubusercontent.com/codingknite/codingknite/main/programming.gif" alt="">
-
 <h1 align="center">Hey there! I'm Prena Uppal 💖✨</h1>
 <p align="center">
   A ✨ Frontend Developer ✨ passionate about crafting beautiful & interactive web experiences! 💻🎨
