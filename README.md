@@ -1,8 +1,18 @@
   <img src="https://raw.githubusercontent.com/codingknite/codingknite/main/programming.gif" alt="">
 
-# 💫 About Me:
-💻 About Me<br>Hi, I'm a Web Developer who loves building creative and interactive digital experiences! 🚀<br><br>🔭 Currently working on frontend & backend projects<br>👽 Skills: React.js, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, PostgreSQL<br>🧑‍💻 Passionate about creating smooth animations & interactive UI/UX<br>⚡ Always exploring new web technologies & frameworks
+<h1 align="center">Hey there! I'm Prena Uppal 💖✨</h1>
+<p align="center">
+  A ✨ Frontend Developer ✨ passionate about crafting beautiful & interactive web experiences! 💻🎨
+</p>
+### 💖 About Me:
+- 🎓 **Undergraduate in Computer Applications** 📚  
+- 💻 **Frontend Developer** | React | Angular | JavaScript | Python 🐍  
+- 🎨 **Loves UI/UX, animations & making the web pretty** ✨  
+- ☕ **Fueled by coffee & cute aesthetics** 🌸  
+- 🎮 **Cozy gamer & tech enthusiast** 🎀🎧
 
+⭐ **Fun fact:** I dream in **CSS & JavaScript!** 🌈💻  
+💖 **Let’s build something magical together!** ✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
