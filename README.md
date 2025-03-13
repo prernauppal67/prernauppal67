@@ -1,3 +1,5 @@
+  <img src="https://raw.githubusercontent.com/codingknite/codingknite/main/programming.gif" alt="">
+
 # 💫 About Me:
 💻 About Me<br>Hi, I'm a Web Developer who loves building creative and interactive digital experiences! 🚀<br><br>🔭 Currently working on frontend & backend projects<br>👽 Skills: React.js, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, PostgreSQL<br>🧑‍💻 Passionate about creating smooth animations & interactive UI/UX<br>⚡ Always exploring new web technologies & frameworks
 
