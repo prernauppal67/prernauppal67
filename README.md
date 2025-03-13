@@ -2,12 +2,12 @@
 <p align="center">
   A ✨ Frontend Developer ✨ passionate about crafting beautiful & interactive web experiences! 💻🎨
 </p>
-### 💖 About Me:
-- 🎓 **Undergraduate in Computer Applications** 📚  
-- 💻 **Frontend Developer** | React | Angular | JavaScript | Python 🐍  
-- 🎨 **Loves UI/UX, animations & making the web pretty** ✨  
-- ☕ **Fueled by coffee & cute aesthetics** 🌸  
-- 🎮 **Cozy gamer & tech enthusiast** 🎀🎧
+💡 About Me:<br>
+🎓 Undergraduate in Computer Applications 📚<br>
+💻 Frontend Developer | React | Angular | JavaScript | Python 🐍<br>
+🎨 Passionate about UI/UX, animations & making the web pretty ✨<br>
+☕ Fueled by coffee & cute aesthetics 🌸<br>
+🎮 Cozy gamer & tech enthusiast 🎀🎧
 
 ⭐ **Fun fact:** I dream in **CSS & JavaScript!** 🌈💻  
 💖 **Let’s build something magical together!** ✨
